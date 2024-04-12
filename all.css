@@ -175,12 +175,16 @@ a {
 
 .menu {
   display: flex;
-  color: #00cc98;
+
   line-height: 36px;
 }
 
 .menu li {
   margin: 0 5px;
+}
+
+.menu a {
+  color: #00cc98;
 }
 
 .content {
